@@ -27,7 +27,7 @@ export default function EditItem({setopenedit,open,edit,idx,selectdata}) {
   const [editModal, setEditModal] = useState(false)
   let handleeditopen=()=>setEditModal(true);
   let handleeditclose=()=>setEditModal(false);
-
+                     
     const[editData,setEditData]=useState(selectdata)
 
     useEffect(() => {

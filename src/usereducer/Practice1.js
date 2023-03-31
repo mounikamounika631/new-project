@@ -1,6 +1,7 @@
 import React, { useReducer } from 'react'
 import { Button } from 'react-bootstrap'
 let initialState={count:0}
+
 function Reduce(state,action)
 {
     switch(action.type)

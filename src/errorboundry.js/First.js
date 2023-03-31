@@ -13,7 +13,7 @@ function First() {
     
   return (
     <div>
-      <h1>Hello count:   {count}</h1>
+      <h1>Hello count:{count}</h1>
       <button onClick={()=> setcount(count+1)}>click me</button>
     </div>
   )

@@ -1,0 +1,77 @@
+.bimg1 {
+  background-size: cover;
+  width: 300px;
+  height: 60vh;
+  display: flex;
+  /* align-items: flex-end; */
+}
+.logtext1 {
+  margin: 0%;
+  text-align: left;
+  color: #ffaa17;
+  font-family: Abril Fatface;
+}
+.emp1 {
+  color: #ffffff;
+  font-size: 20px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+.pass1 {
+  color: #ffffff;
+  font-size: 20px;
+  padding-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+.loginbutton_contianer1 {
+  margin: 20px 0 0 0;
+  background: #faa81d 0% 0% no-repeat padding-box;
+  text-align: center;
+  border-radius: 8px;
+}
+.loginBtn {
+  background-color: transparent;
+  height: 38px;
+  border: none;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 0 40px 0 0;
+  cursor: pointer;
+}
+.cancelBtn1 {
+  background-color: #000000a2;
+  height: 36px;
+  border: none;
+  border-radius: 8px;
+  width: 150px;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  margin-right: -30px;
+  cursor: pointer;
+}
+
+.text-danger {
+  color: indianred;
+}
+.text-pass {
+  color: indianred;
+}
+.div_Container1
+{
+  display: flex;
+}
+
+.Div_continar_tag1
+{
+  font-weight: 900;
+  margin-left: 20px;
+  cursor: pointer;
+  color: blue;
+}

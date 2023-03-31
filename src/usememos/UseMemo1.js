@@ -14,10 +14,11 @@ function UseMemo1() {
   let isEven = useMemo(() => {
     console.log("is even got executed");
     let i = 0;
-    while (i < 500000000) i++;
-    return counter1 % 2 == 0;
+    while (i < 5000000) i++;
+    return counter1 % 2 === 0;
   });
 
+  
   return (
     <div>
       <h1>counter1 value is: {counter1}</h1>

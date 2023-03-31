@@ -1,0 +1,73 @@
+.Dispaly
+{
+    position: absolute;
+    
+    
+    
+}
+.dispaly1
+{
+    position: relative;
+    height: 50px;
+    width: 30px;
+    opacity: 0.64;
+backdrop-filter: blur(11px);
+-webkit-backdrop-filter: blur(11px);
+    
+}
+.dispaly1 img{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 500px;
+    width: 1000px;
+
+}
+
+.Dispaly img{
+    width:800px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.colr
+{
+    position: relative;
+    /* color: transparent; */
+background-color:  #000000A2;
+    height: 400px;
+    width: 350px;
+    margin-left: 532px;
+    margin-top: 20px;
+
+}
+.colr img
+{
+    position: relative;
+   
+     height: 50px;
+     width: 150px;
+    
+     margin-top: 20px;
+}
+.main
+{
+    display: flex;
+}
+.samp1
+{
+    color: #FFAA17;
+    font: var(--unnamed-font-style-normal) normal normal 40px/191px Abril Fatface;
+text-align: center;
+font: normal normal normal 31px/100px Abril Fatface;
+}
+.lab-1
+{
+    color: whitesmoke;
+    font-size:xx-small;
+    margin-right:140px;
+}
+
+
+

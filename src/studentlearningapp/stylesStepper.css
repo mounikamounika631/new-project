@@ -1,0 +1,28 @@
+.sidebar{
+    /* background-image: url('../../public/Img/luke-chesser-3rWagdKBF7U-unsplash.jpg'); */
+    min-height: 100vh;
+    background-color: rgb(173, 235, 235);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content_contianer_box{
+    /* width: 0 !important; */
+    margin-left: 170px;
+    margin-right: 0 !important;
+    background-color: rgb(223, 228, 228);
+
+}
+.content_contianer_box1{
+    background: radial-gradient(ellipse at top, #75e4e8, transparent),   
+             radial-gradient(ellipse at bottom, #b1d3dc, transparent);
+    text-align: center;
+
+}
+.final{
+    /* background-color: blueviolet; */
+    /* height: 100px; */
+    color:blueviolet
+    /* font: 1000!important; */
+    
+}

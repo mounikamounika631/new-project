@@ -1,0 +1,79 @@
+.bimg {
+    background-size: cover;
+    width: 400px;
+    height: 55px;
+  }
+  .logtext {
+    margin: 0%;
+    text-align: center;
+    color: #ffaa17;
+    font-family: Abril Fatface;
+  }
+  .inputbox{
+      height: 25px;
+      border-radius: 5px;
+  }
+  .emp {
+    color: #ffffff;
+    font-size: 20px;
+    height: 70px !important;
+   display: flex;
+    flex-direction: column;
+    text-align: start;
+  }
+  .pass {
+    color: #ffffff;
+    font-size: 20px;
+    padding-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+  }
+  .loginbutton {
+    margin: 20px 0 0 0;
+    background: #faa81d 0% 0% no-repeat padding-box;
+    text-align: center;
+    border-radius: 8px;
+  }
+  .loginBtn {
+    background-color: transparent;
+    height: 38px;
+    border: none;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 0 40px 0 0;
+    cursor: pointer;
+  }
+  .cancelBtn {
+    background-color: #000000a2;
+    height: 36px;
+    border: none;
+    border-radius: 8px;
+    width: 200px;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    margin-right: -98px;
+    cursor: pointer;
+  }
+  
+  .text-danger {
+    color: indianred;
+  }
+  .text-pass {
+    color: indianred;
+  }
+  
+  .Div_continar{
+      display: flex;
+  }
+  .Div_continar_tag{
+      font-weight: 900;
+      margin-left: 20px;
+      cursor: pointer;
+      color: blue;
+  }
+  
+  
